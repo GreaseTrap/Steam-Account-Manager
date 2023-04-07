@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "fdNj6DtVcTGf1ViR0OzmbW4IibiDkQiPGO5xOprN9Mp4BC9kwtZhPg8VTpJb2ovJbQW8ZDuzJgTnPDFx73rksA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sivto\\OneDrive\\Desktop\\Coding\\SteamAccountManager\\SteamAccountManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sivto\\.nuget\\packages\\clickabletransparentoverlay\\8.0.0\\clickabletransparentoverlay.8.0.0.nupkg.sha512",
+    "C:\\Users\\sivto\\.nuget\\packages\\imgui.net\\1.89.4\\imgui.net.1.89.4.nupkg.sha512",
+    "C:\\Users\\sivto\\.nuget\\packages\\polysharp\\1.10.0\\polysharp.1.10.0.nupkg.sha512",
+    "C:\\Users\\sivto\\.nuget\\packages\\sharpgen.runtime\\2.0.0-beta.13\\sharpgen.runtime.2.0.0-beta.13.nupkg.sha512",
+    "C:\\Users\\sivto\\.nuget\\packages\\sharpgen.runtime.com\\2.0.0-beta.13\\sharpgen.runtime.com.2.0.0-beta.13.nupkg.sha512",
+    "C:\\Users\\sivto\\.nuget\\packages\\sixlabors.imagesharp\\3.0.1\\sixlabors.imagesharp.3.0.1.nupkg.sha512",
+    "C:\\Users\\sivto\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\sivto\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\sivto\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "C:\\Users\\sivto\\.nuget\\packages\\vortice.d3dcompiler\\2.4.2\\vortice.d3dcompiler.2.4.2.nupkg.sha512",
+    "C:\\Users\\sivto\\.nuget\\packages\\vortice.direct3d11\\2.4.2\\vortice.direct3d11.2.4.2.nupkg.sha512",
+    "C:\\Users\\sivto\\.nuget\\packages\\vortice.directx\\2.4.2\\vortice.directx.2.4.2.nupkg.sha512",
+    "C:\\Users\\sivto\\.nuget\\packages\\vortice.dxgi\\2.4.2\\vortice.dxgi.2.4.2.nupkg.sha512",
+    "C:\\Users\\sivto\\.nuget\\packages\\vortice.mathematics\\1.4.25\\vortice.mathematics.1.4.25.nupkg.sha512"
+  ],
+  "logs": []
+}
