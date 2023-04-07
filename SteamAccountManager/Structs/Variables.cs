@@ -3,7 +3,7 @@ namespace Structs
     public static class Variables
     {
         public static List<User> Users = new List<User>();
-        public const string StoragePath = @"C:\Data.txt";
+        public const string StoragePath = @"C:\"; // <-- Set as whatever path you want...
         public static int SelectedAccount = 0;
 
         public static string[] ListUsers() {
